@@ -5,7 +5,7 @@
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosSousa2001&show_icons=true&theme=merko)
 
-## Tecnologias que eu uso nomeu dia
+## Tecnologias que eu uso no meu dia
 
 <div styles="display: inline_block"> <br/>
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
